@@ -1,0 +1,81 @@
+# 🩺 Anti-Diabetic Drug Usage Analysis  
+### End-to-End Python Data Analysis Project
+
+This project analyzes *anti-diabetic drug usage* using a dummy healthcare dataset.  
+It demonstrates *data cleaning, exploration, visualization, and insights generation* — essential skills for a *Data Analyst*.
+
+---
+
+## 📌 Project Objectives
+
+- Clean and prepare patient prescription data  
+- Understand drug usage patterns  
+- Analyze patient demographics  
+- Visualize trends using charts  
+- Build a beginner-friendly analytics project for portfolio  
+
+---## 🧠 Key Insights
+
+- *Metformin* is the most prescribed anti-diabetic drug  
+- Patients aged *50–60* have the highest prescription counts  
+- Both genders show similar patterns, with slightly higher insulin usage in females  
+- The cost of medication varies significantly depending on the drug type  
+
+---
+
+## 🛠 Tech Stack
+
+- *Python*
+- *Pandas*
+- *NumPy*
+- *Matplotlib*
+- *Jupyter Notebook / Google Colab*
+
+---
+
+## 📂 Project Files| File | Description |
+|------|-------------|
+| project.ipynb | Full Python code (data cleaning, analysis, charts) |
+| anti_diabetic_data.csv | Dataset used in the project |
+| /charts | Exported PNG charts (optional) |
+| README.md | Project documentation |
+
+---
+
+## 📊 Visualizations Included
+
+- *Drug Usage Count (Bar Chart)*
+- *Age-wise Prescription Count (Line Chart)*
+- *Gender Distribution (Pie Chart)*
+
+These charts help understand prescription patterns across demographics.
+
+---
+
+## 📑 Dataset Description
+
+| Column | Description |
+|--------|-------------|
+| Patient_ID | Unique ID for each patient || Age | Patient age |
+| Gender | M or F |
+| Drug_Name | Prescribed anti-diabetic drug |
+| Diagnosis | Diabetes type |
+| Prescription_Date | Date of prescription |
+| Dose | Drug dosage |
+| Cost | Cost of medication |
+
+Dataset is artificially generated for learning purposes.
+
+---
+
+## ▶ How to Run the Project
+
+### *1. Install required libraries*
+```bash
+pip install pandas numpy matplotlib
+CHARTS:
+<img width="530" height="246" alt="image" src="https://github.com/user-attachments/assets/3b9f8458-f3b2-4d2b-8f11-1da48b71e6df" />
+<img width="383" height="277" alt="image" src="https://github.com/user-attachments/assets/35428e3d-639c-46b2-92e0-536374a4235d" />
+<img width="429" height="279" alt="image" src="https://github.com/user-attachments/assets/0e8ffc4e-de9d-48b8-a8ad-45ad61259130" />
+
+
